@@ -25,12 +25,12 @@ This project is a simple reflex-based game called *Push and Perish, developed us
 
 
 ## Team Members
-| Name - Surname | Student Number |  Github Account | Department |
-| -------------- | -------------- | --------------- | ---------- |
-| Arda YILDIZ       | 202111071 | [29ardayildiz](https://github.com/29ardayildiz) | CENG |
-| Barkın SARIKARTAL | 202111039 | [barkinsarikartal](https://github.com/barkinsarikartal)   | CENG |
-| Çağdaş GÜLEÇ       | 202111004 | [Cagdas-Gulec](https://github.com/Cagdas-Gulec) | CENG |
-| Doğukan POYRAZ          | 202111061 | [dogukanpoyraz](https://github.com/dogukanpoyraz)       | CENG |
+| Name - Surname |  Github Account | Department |
+| -------------- | --------------- | ---------- |
+| Arda YILDIZ       | [29ardayildiz](https://github.com/29ardayildiz) | CENG |
+| Barkın SARIKARTAL | [barkinsarikartal](https://github.com/barkinsarikartal)   | CENG |
+| Çağdaş GÜLEÇ       | [Cagdas-Gulec](https://github.com/Cagdas-Gulec) | CENG |
+| Doğukan POYRAZ          | [dogukanpoyraz](https://github.com/dogukanpoyraz)       | CENG |
 
 ## Documents 
 - [Project Report](https://github.com/29ardayildiz/Push_Or_Perish/blob/main/Documents/Push_Or_Perish_Report.pdf)
