@@ -4,10 +4,10 @@ The project uses a 7-segment display, two buttons, and two LEDs to create a simp
 ## Team Members
 | Name - Surname | Student Number |  Github Account | Department |
 | -------------- | -------------- | --------------- | ---------- |
-| Doğukan POYRAZ          | 202111061 | [dogukanpoyraz](https://github.com/dogukanpoyraz)       | CENG |
+| Arda YILDIZ       | 202111071 | [29ardayildiz](https://github.com/29ardayildiz) | CENG |
 | Barkın SARIKARTAL | 202111039 | [barkinsarikartal](https://github.com/barkinsarikartal)   | CENG |
 | Çağdaş GÜLEÇ       | 202111004 | [Cagdas-Gulec](https://github.com/Cagdas-Gulec) | CENG |
-| Arda YILDIZ       | 202111071 | [29ardayildiz](https://github.com/29ardayildiz) | CENG |
+| Doğukan POYRAZ          | 202111061 | [dogukanpoyraz](https://github.com/dogukanpoyraz)       | CENG |
 
 ## Documents 
 - [Project Report](https://github.com/29ardayildiz/Push_Or_Perish/blob/main/Documents/Push_Or_Perish_Report.pdf)
