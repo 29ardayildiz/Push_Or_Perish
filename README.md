@@ -13,4 +13,4 @@ The project uses a 7-segment display, two buttons, and two LEDs to create a simp
 - [Project Report](https://github.com/29ardayildiz/Push_Or_Perish/blob/main/Documents/Push_Or_Perish_Report.pdf)
 
 ## Project Video
-- [Push_Or_Perish](https://www.youtube.com/watch?v=0pIQgclVjL4)
+- [Project Demo](https://www.youtube.com/watch?v=0pIQgclVjL4)
