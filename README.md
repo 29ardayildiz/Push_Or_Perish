@@ -1,5 +1,5 @@
 # Push Or Perish
-This project is a simple reflex-based game called Push and Perish, developed using the **MSP430G2553 microcontroller. Players must watch the countdown on a 7-segment display and press a button at the right time to win.
+This project is a simple reflex-based game called *Push and Perish, developed using the MSP430G2553* microcontroller. Players must watch the countdown on a 7-segment display and press a button at the right time to win.
 
 ![IMG-20250126-WA0005](https://github.com/user-attachments/assets/9f9817aa-c53f-4cd2-a065-e15a1da6312f)
 
